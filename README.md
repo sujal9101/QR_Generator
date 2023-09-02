@@ -1,2 +1,2 @@
 # QR_Generator
-created a QR Generator with the help of some npm pakages
+Created a QR Generator with the help of npm pakages
